@@ -1,4 +1,4 @@
-NFS_Client
+NFS-Client
 =========
 
 A small role to mount NFS shares on my Linux virtual machines. 
