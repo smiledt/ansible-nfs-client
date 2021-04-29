@@ -11,7 +11,7 @@ You need to have a NFS share on the network, and the ability to mount it via dns
 Role Variables
 --------------
 
-Required variables are listed here, along with default values (specific to my environment, see fefaults/main.yml).
+Required variables are listed here, along with default values (specific to my environment, see defaults/main.yml).
 
     mnt_path: /mnt/storage
 

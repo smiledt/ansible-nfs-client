@@ -1,7 +1,7 @@
 ---
 # Generic NFS playbook.
 # This needs the nfs_mounts list variable, either from a var file or something like AWX. 
-- name: Connect the vm to the Media share on Truenas
+- name: Connect the vm to the NFS share on the network.
   hosts: linux
   become: true
   roles:
